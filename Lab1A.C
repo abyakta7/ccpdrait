@@ -1,5 +1,5 @@
 //Written By Pragik Timsina
-//Find the roots of a Quadratic Equation.
+//Roots of a Quadratic Equation.
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
