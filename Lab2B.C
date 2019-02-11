@@ -13,7 +13,7 @@ void main ()
   scanf ("%d",&a[i]);
  for (j=1;j<n;j++)
  {
-  for (i=0;i<n-j;i++)
+  for (i=0;i<n-1-j;i++)
   {
     if (a[i]>a[i+1])
     {
